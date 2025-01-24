@@ -48,7 +48,7 @@
   }
   
   .temperature-card {
-    /* Add any existing styles for temperature card */
+ 
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -70,19 +70,19 @@
 }
 
 button {
-    background-color: #3498db; /* Blue color for the button */
+    background-color: #3498db;
     border: none;
     color: white;
     font-size: 1.5rem;
     width: 50px;
     height: 50px;
-    border-radius: 50%; /* Makes the button circular */
+    border-radius: 50%;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
 button:hover {
-    background-color: #2980b9; /* Darker blue on hover */
+    background-color: #2980b9;
 }
 
 button:focus {
